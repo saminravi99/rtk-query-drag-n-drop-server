@@ -3,256 +3,602 @@
     {
       "email": "sumit@learnwithsumit.com",
       "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "img": "https://avatars.dicebear.com/api/adventurer/sumit.svg",
       "name": "Sumit Saha",
       "id": 1
     },
     {
       "email": "akash@learnwithsumit.com",
       "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "img": "https://avatars.dicebear.com/api/adventurer/akash.svg",
       "name": "Akash Ahmed",
       "id": 2
     },
     {
       "email": "saad@learnwithsumit.com",
       "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
       "name": "Saad Hasan",
       "id": 3
-    },
-    {
-      "email": "test1@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 1",
-      "id": 4
-    },
-    {
-      "email": "test2@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 2",
-      "id": 5
-    },
-    {
-      "email": "test3@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 3",
-      "id": 6
-    },
-    {
-      "email": "test4@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 4",
-      "id": 7
-    },
-    {
-      "email": "test5@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 5",
-      "id": 8
-    },
-    {
-      "email": "test6@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 6",
-      "id": 9
-    },
-    {
-      "email": "test7@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 7",
-      "id": 10
-    },
-    {
-      "email": "test8@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 8",
-      "id": 11
-    },
-    {
-      "email": "test9@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 9",
-      "id": 12
-    },
-    {
-      "email": "test10@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 10",
-      "id": 13
-    },
-    {
-      "email": "test11@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 11",
-      "id": 14
-    },
-    {
-      "email": "test12@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 12",
-      "id": 15
-    },
-    {
-      "email": "test13@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 13",
-      "id": 16
-    },
-    {
-      "email": "test14@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 14",
-      "id": 17
-    },
-    {
-      "email": "test15@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 15",
-      "id": 18
-    },
-    {
-      "email": "test16@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 16",
-      "id": 19
-    },
-    {
-      "email": "test17@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 17",
-      "id": 20
-    },
-    {
-      "email": "test18@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 18",
-      "id": 21
-    },
-    {
-      "email": "test19@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 19",
-      "id": 22
-    },
-    {
-      "email": "test20@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 20",
-      "id": 23
-    },
-    {
-      "email": "test21@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 21",
-      "id": 24
-    },
-    {
-      "email": "test22@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 22",
-      "id": 25
-    },
-    {
-      "email": "test23@gmail.com",
-      "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
-      "name": "Test 23",
-      "id": 26
     },
     {
       "email": "saminisrar1@gmail.com",
       "password": "$2a$10$eg5h6gsKRcPxnIuCRloZ1e.nHmf8/LtfmU2LMAlQcIF/Q0gRxiChO",
       "name": "Samin Israr Ravi",
+      "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
       "id": 27
     },
     {
       "email": "jhankar@gmail.com",
       "password": "$2a$10$tZ9cs87vPjMIr08Exo09OOZQ1rowXoJ5XTNXm413lT8DETs5aO6OO",
+      "img": "https://avatars.dicebear.com/api/adventurer/jhankar.svg",
       "name": "Jhankar Mahbub",
       "id": 28
     },
     {
       "email": "test242@gmail.com",
       "password": "$2a$10$Fnq9sBYOdDUfLe5ml.LK4e3c/MUwEqWhQhwQ2g4EjLGSqZZp6C4a2",
+      "img": "https://avatars.dicebear.com/api/adventurer/test242.svg",
       "name": "Sharif Sadat",
       "id": 29
     },
     {
       "email": "test25@gmail.com",
       "password": "$2a$10$RdUAnbuQkvwfDPxamOrCke1HzOZA2asamUhv0lHFKqwpokB8NIu.u",
-      "name": "Test 25",
+      "img": "https://avatars.dicebear.com/api/adventurer/test25.svg",
+      "name": "Shakib Al Hasan",
       "id": 30
     },
     {
       "email": "test26@gmail.com",
       "password": "$2a$10$L3b6aF0bZlsnR.KIgVvJeeR37FHqa6EQeAEMbXvmOyKpKADd/afN.",
-      "name": "Test 26",
+      "name": "Jubayer Hossain",
+      "img": "https://avatars.dicebear.com/api/adventurer/test26.svg",
       "id": 31
     },
     {
       "email": "test27@gmail.com",
       "password": "$2a$10$dPKFNWvApcpygebuVdbxh.ksS2PF3DX.gZ5iFTpJU4Teb4C6Q1Nr.",
-      "name": "Test 27 ",
+      "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+      "name": "Ashraful Islam",
       "id": 32
     },
     {
       "email": "test28@gmail.com",
       "password": "$2a$10$mQZO2AdD0WcGYOYcihmBPu6IPsNx08vfSisz8hLwzP5wCCuJLpPGy",
-      "name": "Test 28",
+      "img": "https://avatars.dicebear.com/api/adventurer/test28.svg",
+      "name": "Ayon Jodder",
       "id": 33
     },
     {
       "email": "test29@gmail.com",
       "password": "$2a$10$7j65/kXp1tuXhUixMQZ.Y.Ehk16PBJVcfTr0sb7vfRfrzG9S2Rd8S",
-      "name": "Test 29",
+      "img": "https://avatars.dicebear.com/api/adventurer/test29.svg",
+      "name": "Saidur Rahman",
       "id": 34
     },
     {
       "email": "test30@gmail.com",
       "password": "$2a$10$5Bz5E2aa/oZItTe3ACCcpeaTFkmZCEvk2WGz9AdpWnBiTchtBmyNO",
-      "name": "Test 30",
+      "img": "https://avatars.dicebear.com/api/adventurer/test30.svg",
+      "name": "PM Foysal",
       "id": 35
     },
     {
       "email": "test24@gmail.com",
       "password": "$2a$10$v4zzrBZzKyfcQVm23Oy0pOAtp2h5aqtmmlBjwNbBwnQMXI0QiRf/G",
-      "name": "Test 24",
+      "img": "https://avatars.dicebear.com/api/adventurer/test24.svg",
+      "name": "Mushfiqur Rahman",
       "id": 36
     },
     {
       "email": "test31@gmail.com",
       "password": "$2a$10$gRarb0Aruv2qQ1/EZbO.Deomlsy8uIguHDpiPdBNqWaTgbt7eSw.q",
-      "name": "test 31",
+      "img": "https://avatars.dicebear.com/api/adventurer/test31.svg",
+      "name": "Tamim Iqbal",
       "id": 37
     },
     {
       "email": "test32@gmail.com",
       "password": "$2a$10$4XJnzgMUGFt2MulBDKCjuumJr5biecQ8A40VVU8BQR2tb.FwNNUeu",
-      "name": "Test32",
+      "img": "https://avatars.dicebear.com/api/adventurer/test32.svg",
+      "name": "Rubel Hossain",
       "id": 38
     },
     {
       "email": "test33@gmail.com",
       "password": "$2a$10$SA95IMuhV9iaSXLctgKs/u.49Tj3ml92UzRd8V/yA1C676jQHznVe",
-      "name": "Test33",
+      "img": "https://avatars.dicebear.com/api/adventurer/test33.svg",
+      "name": "Mahmudullah Riyad",
       "id": 39
     },
     {
       "email": "test50@gmail.com",
       "password": "$2a$10$VYXYgciPzsEgEGXLTUiCweXqgd3lvJFYj8o6fx93j2E1xQluM7BR2",
-      "name": "Test50",
+      "img": "https://avatars.dicebear.com/api/adventurer/test50.svg",
+      "name": "Mashrafe Mortaza",
       "id": 40
     },
     {
       "email": "test51@gmail.com",
       "password": "$2a$10$zEkkZd5iY7sWNcCtOXAzU.O/XcVOtOk1695ticLGxQ7BKRGTu9h4G",
-      "name": "test51",
+      "img": "https://avatars.dicebear.com/api/adventurer/test51.svg",
+      "name": "Mustafizur Rahman",
       "id": 41
     },
     {
       "email": "test53@gmail.com",
       "password": "$2a$10$BjPJ31vVJG9WH/H5kreQOuNGNylKIgLVNEX862X7VEvTIMZFqUJ1.",
-      "name": "test53",
+      "img": "https://avatars.dicebear.com/api/adventurer/test53.svg",
+      "name": "MD Moniruzzaaman",
       "id": 42
     }
   ],
-  "teams":[],
-  "projects":[]
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Dev",
+      "teamTitle": "This is the title of the team that will be promoted to identifier",
+      "teamColor": "green",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Dec 12",
+      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com-test30@gmail.com-test32@gmail.com-test53@gmail.com-test242@gmail.com-test25@gmail.com-test31@gmail.com-test50@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "test26@gmail.com",
+          "name": "Jubayer Hossain",
+          "img": "https://avatars.dicebear.com/api/adventurer/test26.svg",
+          "id": 31
+        },
+        {
+          "email": "test27@gmail.com",
+          "name": "Ashraful Islam",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "id": 32
+        },
+        {
+          "email": "test28@gmail.com",
+          "name": "Ayon Jodder",
+          "img": "https://avatars.dicebear.com/api/adventurer/test28.svg",
+          "id": 33
+        },
+        {
+          "email": "test29@gmail.com",
+          "name": "Saidur Rahman",
+          "img": "https://avatars.dicebear.com/api/adventurer/test29.svg",
+          "id": 34
+        },
+        {
+          "email": "test30@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test30.svg",
+          "name": "PM Foysal",
+          "id": 35
+        },
+        {
+          "email": "test32@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test32.svg",
+          "name": "Rubel Hossain",
+          "id": 38
+        },
+        {
+          "email": "test53@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test53.svg",
+          "name": "MD Moniruzzaaman",
+          "id": 42
+        },
+        {
+          "email": "test242@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test242.svg",
+          "name": "Sharif Sadat",
+          "id": 29
+        },
+        {
+          "email": "test25@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test25.svg",
+          "name": "Shakib Al Hasan",
+          "id": 30
+        },
+        {
+          "email": "test31@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test31.svg",
+          "name": "Tamim Iqbal",
+          "id": 37
+        },
+        {
+          "email": "test50@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test50.svg",
+          "name": "Mashrafe Mortaza",
+          "id": 40
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "teamName": "Design",
+      "teamTitle": "This is the title of the team that will be promoted to identifier",
+      "teamColor": "pink",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Dec 18",
+      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "test26@gmail.com",
+          "name": "Jubayer Hossain",
+          "img": "https://avatars.dicebear.com/api/adventurer/test26.svg",
+          "id": 31
+        },
+        {
+          "email": "test27@gmail.com",
+          "name": "Ashraful Islam",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "id": 32
+        },
+        {
+          "email": "test29@gmail.com",
+          "name": "Saidur Rahman",
+          "img": "https://avatars.dicebear.com/api/adventurer/test29.svg",
+          "id": 34
+        }
+      ]
+    },
+    {
+      "teamName": "Tech",
+      "teamTitle": "This is tech team ",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-saad@learnwithsumit.com-sumit@learnwithsumit.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/sumit.svg",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "teamColor": "red",
+      "id": 3
+    },
+    {
+      "teamName": "Marketing ",
+      "teamTitle": "This is Marketing Team",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-test27@gmail.com-test50@gmail.com-test33@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "test27@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "name": "Ashraful Islam",
+          "id": 32
+        },
+        {
+          "email": "test50@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test50.svg",
+          "name": "Mashrafe Mortaza",
+          "id": 40
+        },
+        {
+          "email": "test33@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test33.svg",
+          "name": "Mahmudullah Riyad",
+          "id": 39
+        }
+      ],
+      "teamColor": "blue",
+      "id": 4
+    },
+    {
+      "teamName": "Publication",
+      "teamTitle": "This is publication team",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-sumit@learnwithsumit.com-test242@gmail.com-test26@gmail.com-test27@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/sumit.svg",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "test242@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test242.svg",
+          "name": "Sharif Sadat",
+          "id": 29
+        },
+        {
+          "email": "test26@gmail.com",
+          "name": "Jubayer Hossain",
+          "img": "https://avatars.dicebear.com/api/adventurer/test26.svg",
+          "id": 31
+        },
+        {
+          "email": "test27@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "name": "Ashraful Islam",
+          "id": 32
+        }
+      ],
+      "teamColor": "yellow",
+      "id": 5
+    },
+    {
+      "teamName": "Security",
+      "teamTitle": "this is security team",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-jhankar@gmail.com-test26@gmail.com-saad@learnwithsumit.com-test27@gmail.com-test30@gmail.com-test25@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "jhankar@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/jhankar.svg",
+          "name": "Jhankar Mahbub",
+          "id": 28
+        },
+        {
+          "email": "test26@gmail.com",
+          "name": "Jubayer Hossain",
+          "img": "https://avatars.dicebear.com/api/adventurer/test26.svg",
+          "id": 31
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test27@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "name": "Ashraful Islam",
+          "id": 32
+        },
+        {
+          "email": "test30@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test30.svg",
+          "name": "PM Foysal",
+          "id": 35
+        },
+        {
+          "email": "test25@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test25.svg",
+          "name": "Shakib Al Hasan",
+          "id": 30
+        }
+      ],
+      "teamColor": "orange",
+      "id": 6
+    },
+    {
+      "teamName": "Recruiting",
+      "teamTitle": "This is Recruiting Team",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-jhankar@gmail.com-saad@learnwithsumit.com-sumit@learnwithsumit.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "jhankar@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/jhankar.svg",
+          "name": "Jhankar Mahbub",
+          "id": 28
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/sumit.svg",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "teamColor": "purple",
+      "id": 7
+    },
+    {
+      "teamName": "Sales",
+      "teamTitle": "This is sales team",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 23",
+      "teamMembers": "saminisrar1@gmail.com-saad@learnwithsumit.com-test242@gmail.com-test27@gmail.com",
+      "membersDetails": [
+        {
+          "email": "saminisrar1@gmail.com",
+          "name": "Samin Israr Ravi",
+          "img": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+          "id": 27
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "test242@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test242.svg",
+          "name": "Sharif Sadat",
+          "id": 29
+        },
+        {
+          "email": "test27@gmail.com",
+          "img": "https://avatars.dicebear.com/api/adventurer/test27.svg",
+          "name": "Ashraful Islam",
+          "id": 32
+        }
+      ],
+      "teamColor": "indigo",
+      "id": 8
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "teamId": 5,
+      "projectTitle": "This is a test project that will be tested initially and will be tested again initially",
+      "assignedTeam": "Publication",
+      "projectStatus": "Backlog",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Aug 10"
+    },
+    {
+      "teamId": 7,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Recruiting",
+      "projectStatus": "Blocked",
+      "projectTitle": "Launch LWS Course",
+      "id": 3
+    },
+    {
+      "teamId": 5,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Publication",
+      "projectStatus": "Done",
+      "projectTitle": "Publish New Videos",
+      "id": 4
+    },
+    {
+      "teamId": 6,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Security",
+      "projectStatus": "Ready",
+      "projectTitle": "Secure This Website",
+      "id": 5
+    },
+    {
+      "teamId": 7,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Recruiting",
+      "projectStatus": "Review",
+      "projectTitle": "Recruit new Teams",
+      "id": 6
+    },
+    {
+      "teamId": 2,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Design",
+      "projectStatus": "Doing",
+      "projectTitle": "Design new websites",
+      "id": 7
+    },
+    {
+      "teamId": 8,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Sales",
+      "projectStatus": "Doing",
+      "projectTitle": "New Sales Production",
+      "id": 8
+    },
+    {
+      "teamId": 4,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Marketing ",
+      "projectStatus": "Backlog",
+      "projectTitle": "Marketing of New Course",
+      "id": 9
+    },
+    {
+      "teamId": 1,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Dev",
+      "projectStatus": "Review",
+      "projectTitle": "Developing the Backend",
+      "id": 10
+    },
+    {
+      "teamId": 3,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Tech",
+      "projectStatus": "Doing",
+      "projectTitle": "Develop Frontend",
+      "id": 11
+    },
+    {
+      "teamId": 6,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Security",
+      "projectStatus": "Done",
+      "projectTitle": "Secure the backend",
+      "id": 12
+    },
+    {
+      "teamId": 8,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Sales",
+      "projectStatus": "Ready",
+      "projectTitle": "Learn Redux Core Concepts",
+      "id": 13
+    },
+    {
+      "teamId": 6,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Security",
+      "projectStatus": "Ready",
+      "projectTitle": "Redux Toolkit",
+      "id": 14
+    }
+  ]
 }
