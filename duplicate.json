@@ -250,12 +250,6 @@
           "name": "Saidur Rahman",
           "img": "https://avatars.dicebear.com/api/adventurer/test29.svg",
           "id": 34
-        },
-        {
-          "email": "test28@gmail.com",
-          "img": "https://avatars.dicebear.com/api/adventurer/test28.svg",
-          "name": "Ayon Jodder",
-          "id": 33
         }
       ]
     },
@@ -486,73 +480,125 @@
       ],
       "teamColor": "indigo",
       "id": 8
-    },
-    {
-      "teamName": "Engineers",
-      "teamTitle": "Engineering Team",
-      "creatorImg": "https://avatars.dicebear.com/api/adventurer/test28.svg",
-      "createdAt": "Sep 27",
-      "teamMembers": "test28@gmail.com-saad@learnwithsumit.com-akash@learnwithsumit.com-test25@gmail.com",
-      "membersDetails": [
-        {
-          "email": "test28@gmail.com",
-          "img": "https://avatars.dicebear.com/api/adventurer/test28.svg",
-          "name": "Ayon Jodder",
-          "id": 33
-        },
-        {
-          "email": "saad@learnwithsumit.com",
-          "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
-          "name": "Saad Hasan",
-          "id": 3
-        },
-        {
-          "email": "akash@learnwithsumit.com",
-          "img": "https://avatars.dicebear.com/api/adventurer/akash.svg",
-          "name": "Akash Ahmed",
-          "id": 2
-        },
-        {
-          "email": "test25@gmail.com",
-          "img": "https://avatars.dicebear.com/api/adventurer/test25.svg",
-          "name": "Shakib Al Hasan",
-          "id": 30
-        }
-      ],
-      "teamColor": "pink",
-      "id": 9
     }
   ],
   "projects": [
     {
       "id": 1,
-      "teamId": 2,
-      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com",
+      "teamId": 5,
       "projectTitle": "This is a test project that will be tested initially and will be tested again initially",
-      "assignedTeam": "Design",
-      "projectStatus": "Ready",
+      "assignedTeam": "Publication",
+      "projectStatus": "Backlog",
       "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
       "createdAt": "Aug 10"
     },
     {
-      "teamId": 2,
-      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com",
-      "creatorImg": "https://avatars.dicebear.com/api/adventurer/test28.svg",
-      "createdAt": "Sep 27",
-      "assignedTeam": "Design",
-      "projectStatus": "Backlog",
-      "projectTitle": "Frontend Project",
-      "id": 2
+      "teamId": 7,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Recruiting",
+      "projectStatus": "Blocked",
+      "projectTitle": "Launch LWS Course",
+      "id": 3
     },
     {
-      "teamId": 9,
-      "teamMembers": "test28@gmail.com-saad@learnwithsumit.com-akash@learnwithsumit.com-test25@gmail.com",
-      "creatorImg": "https://avatars.dicebear.com/api/adventurer/test28.svg",
-      "createdAt": "Sep 27",
-      "assignedTeam": "Engineers",
+      "teamId": 5,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Publication",
+      "projectStatus": "Done",
+      "projectTitle": "Publish New Videos",
+      "id": 4
+    },
+    {
+      "teamId": 6,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Security",
       "projectStatus": "Backlog",
-      "projectTitle": "Trello Project",
-      "id": 3
+      "projectTitle": "Secure This Website",
+      "id": 5
+    },
+    {
+      "teamId": 7,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Recruiting",
+      "projectStatus": "Review",
+      "projectTitle": "Recruit new Teams",
+      "id": 6
+    },
+    {
+      "teamId": 2,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Design",
+      "projectStatus": "Doing",
+      "projectTitle": "Design new websites",
+      "id": 7
+    },
+    {
+      "teamId": 4,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Marketing ",
+      "projectStatus": "Backlog",
+      "projectTitle": "New Sales Production",
+      "id": 8
+    },
+    {
+      "teamId": 3,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Tech",
+      "projectStatus": "Ready",
+      "projectTitle": "Marketing of New Course",
+      "id": 9
+    },
+    {
+      "teamId": 1,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Dev",
+      "projectStatus": "Blocked",
+      "projectTitle": "Developing the Backend",
+      "id": 10
+    },
+    {
+      "teamId": 3,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Tech",
+      "projectStatus": "Ready",
+      "projectTitle": "Develop Frontend",
+      "id": 11
+    },
+    {
+      "teamId": 6,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Security",
+      "projectStatus": "Done",
+      "projectTitle": "Secure the backend",
+      "id": 12
+    },
+    {
+      "teamId": 8,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Sales",
+      "projectStatus": "Blocked",
+      "projectTitle": "Learn Redux Core Concepts",
+      "id": 13
+    },
+    {
+      "teamId": 4,
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Sep 24",
+      "assignedTeam": "Marketing ",
+      "projectStatus": "Review",
+      "projectTitle": "Redux Toolkit",
+      "id": 14
     }
   ]
 }
